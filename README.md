@@ -66,9 +66,5 @@ sockfs.listdir('/')
 
 ### The Awesomeness Stops Here
 
-I'm working on it.
+The other file system methods will be added as time permits. Starting with getinfo() and read() methods. Write comes last.
 
-
-```python
-
-```
