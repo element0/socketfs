@@ -66,5 +66,5 @@ sockfs.listdir('/')
 
 ### The Awesomeness Stops Here
 
-The other file system methods will be added as time permits. Starting with getinfo() and read() methods. Write comes last.
+The actual, necessary file system methods will be fixed as time permits. Starting with getinfo() and read() methods. Save the best for last.
 
