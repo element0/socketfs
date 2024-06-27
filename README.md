@@ -3,9 +3,18 @@
 A pyfilesystem-socket spamwich.
 
 
-```mermaid
+    SocketFSClient
+    --------------
+       _Socket_
+    ..............
+    SocketFSServer
+    
 
-graph TD
+
+
+
+```mermaid
+  graph TD
     client[SocketFSClient]:::pyfs
     socket( Socket ):::sock
     server[SocketFSServer]:::pyfs
@@ -14,7 +23,6 @@ graph TD
 
     classDef pyfs fill:#eeb
     classDef sock fill:#fcc
-
 ```
 
 
