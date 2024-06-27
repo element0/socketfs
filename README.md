@@ -11,8 +11,6 @@ A pyfilesystem-socket spamwich.
 
     client --> socket --> server
 
-    classDef pyfs fill:#eeb
-    classDef sock fill:#fcc
 ```
 
 #### Requirements
