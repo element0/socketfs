@@ -1,5 +1,3 @@
-#!/usr/bin/env python3
-
 from fs import open_fs
 from fs.errors import ResourceNotFound
 import json
